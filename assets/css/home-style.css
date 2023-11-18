@@ -113,7 +113,6 @@ header li a:hover {
     text-align: center;
     padding-bottom: 5px;
     margin-top: 0;
-    margin-bottom: 1rem;    
     letter-spacing: 1px;
 }
 
@@ -279,15 +278,15 @@ swiper-slide {
 }
 
 .accordion:after { 
-    content: '\2B9D';
+    content: '\02795';
     color: #777;
-    font-size: 18px;
     float: right;
+    font-size: 13px;
     margin-left: 5px;
 }
 
 .active:after {
-    content: "\2B9F";
+    content: "\2796";
 }
 
 .panel {
