@@ -335,6 +335,7 @@ swiper-slide {
     border-radius: 5px;
 }
 label {
+    margin-left: 1px;
     font-weight: bold;
     color: #555;
 }
