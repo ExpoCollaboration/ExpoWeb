@@ -198,7 +198,7 @@ swiper-slide {
 
 #service h1 {
     color: black;
-    margin-top: 40px;
+    margin-top: 85px;
     letter-spacing: 5px;
     font-size: 3em;
     justify-content: center;
@@ -281,7 +281,7 @@ swiper-slide {
     content: '\02795';
     color: #777;
     float: right;
-    font-size: 13px;
+    font-size: 8px;
     margin-left: 5px;
 }
 
@@ -295,6 +295,11 @@ swiper-slide {
     max-height: 0;
     overflow: hidden;
     transition: max-height 0.2s ease-out;
+}
+
+.panel p {
+    margin-left: 10px;
+    text-align: left;
 }
 
 /* ---------------------------------- Contact Us ----------------------------------------- */
@@ -323,7 +328,7 @@ swiper-slide {
 
 #contact h1 {
     color: black;
-    margin-top: 40px;
+    margin-top: 85px;
     letter-spacing: 5px;
     font-size: 3em;
     justify-content: center;
