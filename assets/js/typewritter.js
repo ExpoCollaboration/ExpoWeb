@@ -1,5 +1,5 @@
 var i = 0;
-var txt1 = "Point of Sales";
+var txt1 = "Transaction Processing System & Stock Control";
 const speed = 75;
 
 function Write() {
@@ -11,7 +11,7 @@ function Write() {
 }
 
 var e = 0;
-var txt2 = "A Point of Sales Management web application for culinary.";
+var txt2 = "A Transaction Processing System & Stock Control Web Application for JM2DG Culinary Solutions.";
 var speed2 = 80;
 
 function Write2() {

@@ -216,7 +216,7 @@ swiper-slide {
 }
 
 .service-card {
-    border: 1px solid #ccc;
+    border: 2px solid #ccc;
     border-radius: 25px;
     margin: 10px;
     padding: 15px;
@@ -231,11 +231,6 @@ swiper-slide {
     min-height: 250px;
     max-height: 250px;
     border-radius: 10px;
-}
-
-.service-card:hover {
-    animation: 0.8s;
-    transform: scale(1.05);
 }
 
 /* ---------------------------------- FAQ ----------------------------------------- */

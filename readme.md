@@ -1,1 +1,1 @@
-Inventa: A Web-Based Sales Management System for Culinary students and small business produced by G12 IT Students of STI College Marikina.
+TSPRO: A Transaction Processing System & Stock Control Web Application for JM2DG Culinary Solutions.
