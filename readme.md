@@ -1,1 +1,0 @@
-TSPRO: A Transaction Processing System & Stock Control Web Application for JM2DG Culinary Solutions.
